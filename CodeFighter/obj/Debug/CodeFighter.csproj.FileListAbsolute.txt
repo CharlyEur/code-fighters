@@ -1,0 +1,10 @@
+C:\Personal\Test Projects\CodeFighter\CodeFighter\bin\Debug\CodeFighter.dll
+C:\Personal\Test Projects\CodeFighter\CodeFighter\bin\Debug\CodeFighter.pdb
+C:\Personal\Test Projects\CodeFighter\CodeFighter\obj\Debug\CodeFighter.dll
+C:\Personal\Test Projects\CodeFighter\CodeFighter\obj\Debug\CodeFighter.pdb
+C:\Personal\Test Projects\CodeFighter\CodeFighter\obj\Debug\CodeFighter.csprojResolveAssemblyReference.cache
+C:\Personal\TestProjects\CodeFighter\CodeFighter\bin\Debug\CodeFighter.dll
+C:\Personal\TestProjects\CodeFighter\CodeFighter\bin\Debug\CodeFighter.pdb
+C:\Personal\TestProjects\CodeFighter\CodeFighter\obj\Debug\CodeFighter.csprojResolveAssemblyReference.cache
+C:\Personal\TestProjects\CodeFighter\CodeFighter\obj\Debug\CodeFighter.dll
+C:\Personal\TestProjects\CodeFighter\CodeFighter\obj\Debug\CodeFighter.pdb

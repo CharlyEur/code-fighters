@@ -1,0 +1,18 @@
+C:\Personal\Test Projects\CodeFighter\UnitTestProject1\bin\Debug\CodeFighter.UnitTestProject.dll
+C:\Personal\Test Projects\CodeFighter\UnitTestProject1\bin\Debug\CodeFighter.UnitTestProject.pdb
+C:\Personal\Test Projects\CodeFighter\UnitTestProject1\bin\Debug\CodeFighter.dll
+C:\Personal\Test Projects\CodeFighter\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Personal\Test Projects\CodeFighter\UnitTestProject1\bin\Debug\CodeFighter.pdb
+C:\Personal\Test Projects\CodeFighter\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Personal\Test Projects\CodeFighter\UnitTestProject1\obj\Debug\CodeFighter.UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Personal\Test Projects\CodeFighter\UnitTestProject1\obj\Debug\CodeFighter.UnitTestProject.dll
+C:\Personal\Test Projects\CodeFighter\UnitTestProject1\obj\Debug\CodeFighter.UnitTestProject.pdb
+C:\Personal\TestProjects\CodeFighter\UnitTestProject1\bin\Debug\CodeFighter.UnitTestProject.dll
+C:\Personal\TestProjects\CodeFighter\UnitTestProject1\bin\Debug\CodeFighter.UnitTestProject.pdb
+C:\Personal\TestProjects\CodeFighter\UnitTestProject1\bin\Debug\CodeFighter.dll
+C:\Personal\TestProjects\CodeFighter\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Personal\TestProjects\CodeFighter\UnitTestProject1\bin\Debug\CodeFighter.pdb
+C:\Personal\TestProjects\CodeFighter\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Personal\TestProjects\CodeFighter\UnitTestProject1\obj\Debug\CodeFighter.UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Personal\TestProjects\CodeFighter\UnitTestProject1\obj\Debug\CodeFighter.UnitTestProject.dll
+C:\Personal\TestProjects\CodeFighter\UnitTestProject1\obj\Debug\CodeFighter.UnitTestProject.pdb
